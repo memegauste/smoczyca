@@ -1,4 +1,4 @@
-# Smoczyca 2024 by PSzczepanski1996
+# Smoczyca 2025 by MemeGauste
 import platform
 import random
 
@@ -21,7 +21,7 @@ class CustomHelpCommand(DefaultHelpCommand):
 
 
 config = read_json_file('config.json')
-desc = 'Smoczyca bot made by PSzczepanski1996.'
+desc = 'Smoczyca bot made by MemeGauste.'
 intents = discord.Intents.default()
 intents.message_content = True
 activity = discord.Game('Python Virtualenv')
