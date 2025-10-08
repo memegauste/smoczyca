@@ -8,8 +8,8 @@
 An discord.py bot written for NosTale / AyyMD community. Use it at own risk.  
 
 ##### Dependencies
-* python3 (tested on 3.13)
-* discord.py 2.5.2
+* python3 (tested on 3.14)
+* discord.py 2.6.3
 
 ##### How to write your own config?
 Write your own config.json file:
